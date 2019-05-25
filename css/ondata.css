@@ -1,0 +1,29 @@
+article a {
+    text-decoration: none !important;
+    color: #007bff !important;
+}
+
+article a:link {
+    text-decoration: none !important;
+    color: #007bff !important;
+}
+
+article a:visited {
+    text-decoration: none !important;
+    color: #007bff !important;
+}
+
+article a:focus {
+    text-decoration: none !important;
+    color: #007bff !important;
+}
+
+article a:hover {
+    text-decoration: underline !important;
+    color: #007bff !important;
+}
+
+article a:active {
+    text-decoration: none !important;
+    color: #007bff !important;
+}
