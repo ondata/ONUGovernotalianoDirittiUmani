@@ -1,18 +1,3 @@
-**Nota metodologica**: L'Introduzione seguente è stata inserita dall'Associazione onData.
-
-# Introduzione
-
-La comunicazione inviata dall'Alto Commissariato delle Nazioni Unite per i Diritti Umani è stata inviata nell'ambito delle cosiddette Procedure Speciali meccanismi di monitoraggio e promozione dei diritti umani, di cui si serve il Consiglio per analizzare la situazione dei diritti umani in uno specifico Paese o specifiche questioni legate ai diritti umani in diversi paesi. Viene inviata in data 15 maggio 2019 al Governo Italiano e in particolare al Ministro degli Affari Esteri e della Cooperazione Internazionale, Enzo Moavero Milanesi tramite il Rappresentante Permanente italiano presso le Nazioni Unite a Ginevra.
-
-# La comunicazione
-
-- [Introduzione](#introduzione)
-- [La comunicazione](#la-comunicazione)
-  - [Sulla criminalizzazione delle organizzazioni della società civile che effettuano operazioni di ricerca e soccorso](#sulla-criminalizzazione-delle-organizzazioni-della-societ%C3%A0-civile-che-effettuano-operazioni-di-ricerca-e-soccorso)
-  - [Sul diritto alla vita e sulla mancanza di riferimenti nella Direttiva alle norme internazionali sui diritti umani](#sul-diritto-alla-vita-e-sulla-mancanza-di-riferimenti-nella-direttiva-alle-norme-internazionali-sui-diritti-umani)
-  - [Sulla stigmatizzazione dei migranti in difficoltà in mare e sulla negazione del loro diritto a chiedere asilo e ad essere identificati come vittime della tratta di persone.](#sulla-stigmatizzazione-dei-migranti-in-difficolt%C3%A0-in-mare-e-sulla-negazione-del-loro-diritto-a-chiedere-asilo-e-ad-essere-identificati-come-vittime-della-tratta-di-persone)
-  - [Sulla mancanza di considerazione verso il principio di non respingimento.](#sulla-mancanza-di-considerazione-verso-il-principio-di-non-respingimento)
-
 15 Maggio 2019
 
 Eccellenza
