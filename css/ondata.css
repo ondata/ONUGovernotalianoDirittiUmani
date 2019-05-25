@@ -27,3 +27,9 @@ article a:active {
     text-decoration: none !important;
     color: #007bff !important;
 }
+
+.lettera {
+    font-size: 20px;
+    color: #3b3b3b;
+    font-family: 'News Cycle', sans-serif;
+}
