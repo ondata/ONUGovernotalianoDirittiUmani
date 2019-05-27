@@ -10,6 +10,6 @@ Qui il progetto di traduzione su Transifex: https://www.transifex.com/ondata/com
 
 # Minisito dedicato
 
-È stato creato un minisito dedicato, visibile a questo URL https://bit.ly/onuitalia.
+È stato creato un minisito dedicato, visibile a questo URL http://bit.ly/onuchiamaitalia.
 
 I file del sito, sono in [questo *branch*](https://github.com/ondata/ONUGovernotalianoDirittiUmani/tree/gh-pages) del *repository*.
