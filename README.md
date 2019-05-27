@@ -5,6 +5,7 @@
 Iniziativa di traduzione in italiano, pubblicazione e condivisione del testo che l’ONU ha inviato al nostro governo indirizzandola al Ministero degli Affari Esteri e della Cooperazione Internazionale, resa pubblica dal quotidiano Avvenire al link https://www.avvenire.it/c/attualita/Documents/ONUdirittiViolati.pdf
 
 Questo il post di lancio della campagna: http://blog.ondata.it/la-comunicazione-onu-al-governo-italiano-aiutaci-a-tradurla/
+
 Qui il progetto di traduzione su Transifex: https://www.transifex.com/ondata/comunicazione-onu-al-governo-italiano/dashboard/
 
 # Minisito dedicato
